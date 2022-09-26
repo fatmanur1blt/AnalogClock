@@ -1,2 +1,2 @@
 # AnalogClock
- Analog clock making with <b><em>JavaScript.</em></b>
+ Analog clock making with <b><i>JavaScript.</i></b>
